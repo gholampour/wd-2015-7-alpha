@@ -20,5 +20,5 @@
 * [CodePen](http://codepen.io/)
 * [JSFiddle](https://jsfiddle.net/)
 
-### Questions & Answers
+### Questions & Answers:
 * [Stack Overflow](http://stackoverflow.com)
