@@ -4,6 +4,10 @@
 * [World Wide Web Consortium (W3C)](http://www.w3c.org)
 * [W3Schools Online Web Tutorials](http://www.w3schools.com)
 
+### Schools:
+* [Codecademy](http://www.codecademy.com)
+* [Code School](https://www.codeschool.com)
+
 ### Tutorials:
 * [Tuts+ Free Web Design Tutorials](http://webdesign.tutsplus.com)
 * [SitePoint HTML & CSS Archives](http://www.sitepoint.com/html-css/)
